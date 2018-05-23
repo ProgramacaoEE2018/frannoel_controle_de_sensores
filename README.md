@@ -17,7 +17,7 @@ b.	(03) Três jumper;
  
 c.	(01) Sensor DHT 11, DHT 22 ou qualquer outro modelo dessa linha DHT;
 
-![dht](https://user-images.githubusercontent.com/37376018/40452276-bab8fe9c-5eb7-11e8-8884-
+![dht](https://user-images.githubusercontent.com/37376018/40452680-0de554c0-5eb9-11e8-80b9-e55c8499e6c3.png)
 
 d.	(01) Resistor de 10k;
 
