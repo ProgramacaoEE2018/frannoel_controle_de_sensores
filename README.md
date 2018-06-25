@@ -49,3 +49,5 @@ c. Para o link https://www.youtube.com/watch?v=lM9E4H72sZM temos  a seguinte gra
 
 ![grafico](https://user-images.githubusercontent.com/37376018/40452374-fe22c488-5eb7-11e8-9e63-c52c5b6d24c9.png)
 
+TUTORIAL DE INSTALAÇAO E UTILIZACAO
+ LINK: https://github.com/ProgramacaoEE2018/frannoel_controle_de_sensores/blob/master/TUTORIAL.pdf
