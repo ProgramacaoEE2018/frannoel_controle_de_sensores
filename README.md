@@ -53,4 +53,5 @@ TUTORIAL DE INSTALAÇAO E UTILIZACAO
  LINK: https://github.com/ProgramacaoEE2018/frannoel_controle_de_sensores/blob/master/TUTORIAL.pdf
  
 DOCUMENTACAO html
- LINK: https://github.com/ProgramacaoEE2018/frannoel_controle_de_sensores/blob/master/html_DHT11.zip
+ LINK: https://github.com/ProgramacaoEE2018/frannoel_controle_de_sensores/blob/master/html_DHT11.zip ,
+ https://github.com/ProgramacaoEE2018/frannoel_controle_de_sensores/blob/master/html_Interface_Grafica.zip
