@@ -51,3 +51,6 @@ c. Para o link https://www.youtube.com/watch?v=lM9E4H72sZM temos  a seguinte gra
 
 TUTORIAL DE INSTALAÇAO E UTILIZACAO
  LINK: https://github.com/ProgramacaoEE2018/frannoel_controle_de_sensores/blob/master/TUTORIAL.pdf
+ 
+DOCUMENTACAO html
+ LINK: https://github.com/ProgramacaoEE2018/frannoel_controle_de_sensores/blob/master/html_DHT11.zip
